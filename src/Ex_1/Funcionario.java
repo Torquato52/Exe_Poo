@@ -44,7 +44,6 @@ public class Funcionario {
         if (salarioLiquido < 1412.00) {
             salarioLiquido = 1412.00;
         }
-
         return salarioLiquido;
     }
 }
